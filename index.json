@@ -1,3 +1,14 @@
 {
-  "plugins": []
+  "plugins": [
+    {
+      "id": "insomnia",
+      "name": "Insomnia Collections",
+      "version": "0.1.0",
+      "author": "Rustrest",
+      "description": "Import/export Insomnia v4 (JSON) and v5.1 (YAML) collections.",
+      "download_url": "https://github.com/Rustrest/plugins/releases/download/plugin-insomnia-v0.1.0/insomnia-0.1.0.zip",
+      "sha256": "481d4e140726aedc3d7f0f72a68b6cbdb073414d9a6fae054dc0fbf50def89fc",
+      "homepage": "https://github.com/SojebSikder/rustrest/tree/main/crates/rustrest-plugin-insomnia"
+    }
+  ]
 }
