@@ -17,7 +17,6 @@
       "author": "Rustrest",
       "description": "Import/export Insomnia v4 (JSON) and v5.1 (YAML) collections.",
       "download_url": "https://github.com/Rustrest/plugins/releases/download/rustrest-plugin/ai-agent-0.1.0.zip",
-      "sha256": "d7f5af4e7cccb2971ee8cdc4bc7d25effcea95f56d76ea558e530327152716e6",
       "homepage": "https://github.com/SojebSikder/rustrest/tree/main/crates/rustrest-plugin-ai-agent"
     }
   ]
