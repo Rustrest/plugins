@@ -11,8 +11,8 @@
       "homepage": "https://github.com/SojebSikder/rustrest/tree/main/crates/rustrest-plugin-insomnia"
     },
     {
-      "id": "openapi-swagger",
-      "name": "OpenAPI/Swagger",
+      "id": "openapi",
+      "name": "OpenAPI / Swagger",
       "version": "0.1.0",
       "author": "Rustrest",
       "description": "Import/export OpenAPI 3.0/3.1 and Swagger 2.0 (JSON or YAML) API definitions.",
