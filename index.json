@@ -37,7 +37,7 @@
       "author": "Rustrest",
       "description": "Autocomplete, hover docs and error checking for pre-request / post-response scripts, powered by the Rust-based rustrest-js-lsp server.",
       "download_url": "https://github.com/Rustrest/plugins/releases/download/rustrest-plugin/js-lsp.zip",
-      "sha256": "05cab72bcccc5c1ed02bf65a752b4bf39f2c5d3c60295d10f79850bf2fb60a64",
+      "sha256": "2c9e1201664a315d05f9b91074f9d602f8e14e009ccfe57229e59b8ef3f3b26d",
       "homepage": "https://github.com/SojebSikder/rustrest/tree/main/crates/rustrest-plugin-js-lsp"
     }
   ]
