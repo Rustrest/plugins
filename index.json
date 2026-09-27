@@ -29,6 +29,16 @@
       "download_url": "https://github.com/Rustrest/plugins/releases/download/rustrest-plugin/ai-agent-0.1.0.zip",
       "sha256": "c01e933b145482d05d8300a776283b8fed28aa362dfe3a75ba198c91084b5c3a",
       "homepage": "https://github.com/SojebSikder/rustrest/tree/main/crates/rustrest-plugin-ai-agent"
+    },
+    {
+      "id": "js-lsp",
+      "name": "JS LSP",
+      "version": "0.1.0",
+      "author": "Rustrest",
+      "description": "Autocomplete, hover docs and error checking for pre-request / post-response scripts, powered by the Rust-based rustrest-js-lsp server.",
+      "download_url": "https://github.com/Rustrest/plugins/releases/download/rustrest-plugin/js-lsp.zip",
+      "sha256": "sha256:05cab72bcccc5c1ed02bf65a752b4bf39f2c5d3c60295d10f79850bf2fb60a64",
+      "homepage": "https://github.com/SojebSikder/rustrest/tree/main/crates/rustrest-plugin-js-lsp"
     }
   ]
 }
