@@ -25,9 +25,9 @@
       "name": "Ai Agent",
       "version": "0.1.0",
       "author": "Rustrest",
-      "description": "Chat about the active request/response, edit requests from natural language, generate test scripts, and explain errors - docked in the right panel.",
+      "description": "Rustrest AI Agent",
       "download_url": "https://github.com/Rustrest/plugins/releases/download/rustrest-plugin/ai-agent-0.1.0.zip",
-      "sha256": "c01e933b145482d05d8300a776283b8fed28aa362dfe3a75ba198c91084b5c3a",
+      "sha256": "4e0fa0f60528ddb8e880d154737e19edb88149489167140b4f8f70fa8daa16ee",
       "homepage": "https://github.com/SojebSikder/rustrest/tree/main/crates/rustrest-plugin-ai-agent"
     },
     {
