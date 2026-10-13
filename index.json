@@ -27,7 +27,7 @@
       "author": "Rustrest",
       "description": "Rustrest AI Agent",
       "download_url": "https://github.com/Rustrest/plugins/releases/download/rustrest-plugin/ai-agent-0.1.0.zip",
-      "sha256": "9cb266fea9dba092d788693de91f6bc611112a240db91cd919519b260b96bdac",
+      "sha256": "68117cf18d2316ad5f65f57e8e7deaaca895ab11af54a89a304e231635f7726a",
       "homepage": "https://github.com/SojebSikder/rustrest/tree/main/crates/rustrest-plugin-ai-agent"
     },
     {
